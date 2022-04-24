@@ -1,0 +1,9 @@
+{
+	"name": "ChristophDataFactory1",
+	"location": "eastus",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "dfca7253-b46b-4ccd-ae9c-0b74d1813f39",
+		"tenantId": "75a876af-b8c0-4bc1-bcc0-642a117f970b"
+	}
+}
